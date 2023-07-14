@@ -1,0 +1,24 @@
+hello--bottom text
+how to draw--red eyes
+arrowvortex is--best
+finish this song sandi--please
+red mist--is leaving
+out of five kids--one went gaming mode
+complex modcharting--is hard
+red mist--is not coming
+fatum betula--my favourite
+yoshi engine is dead--said codename engine
+music offset feature--please Psych
+vortex option--best feature
+newgrounds--favourite website
+if statements--I hate them but
+two folder--the same name
+put it in create??--or postCreate??
+freeplay songs--pls move
+coop mode--best feature
+opponent mode--best feature
+wait for tomorrow--for discord RPC to work
+dont use global.hx for all songs--use PlayState.hx instead
+XML happens to be--"cleaner"
+cant wait for--1.0 ver
+songs folder structure--is confusing a bit

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5" name="dumpedOld" folder="stages/dumpedOld/">
+    <sprite name="room" x="0" y="0" sprite="room" scroll="1" scale="1.1"/>
+
+    <dad x="1028" y="500"/>
+    <gf/> 
+    <boyfriend  x="0" y="0"/>
+</stage>

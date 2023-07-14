@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character> <!-- Made with WizardMantis's Character Converter -->
+<character isPlayer="false" x="0" y="0" icon="bootleg" flipX="false" camx="-230" camy="70" holdTime="4" scale="1.7">
+	<anim name="singLEFT" anim="Dumped_Left" fps="24" loop="false" x="17.0588235294118" y="-22.3529411764706"/>
+	<anim name="singRIGHT" anim="Dumped_Right" fps="24" loop="false" x="17.0588235294118" y="-21.1764705882353"/>
+	<anim name="singDOWN" anim="Dumped_Down" fps="24" loop="false" x="50" y="-21.1764705882353"/>
+	<anim name="singUP" anim="Dumped_Up" fps="24" loop="false" x="55.8823529411765" y="176.470588235294"/>
+	<anim name="idle" anim="Dumped_Idle" fps="24" loop="false" x="11.1764705882353" y="-22.3529411764706"/>
+</character>

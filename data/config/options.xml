@@ -1,0 +1,5 @@
+<!DOCTYPE codename-mod-options>
+<menu name="old dumped options" desc="Two dead eeyyyyyeesss">
+	<checkbox id="camZooming" name="Camera Zoom" />
+	<checkbox id="notecam" name="Cam move on notes" />
+</menu>
