@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "icon-driedup",
+	"difficulties": [
+		"HARD"
+	],
+	"parsedColor": -608764,
+	"coopAllowed": true,
+	"color": "#F6B604",
+	"name": "dehydrated",
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"displayName": "dehydrated",
+	"needsVoices": true,
+	"bpm": 182
+}

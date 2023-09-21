@@ -13,7 +13,7 @@
 		{
             "name": "Camera",
             "type": "DropDown('camGame', 'camHUD')",
-            "defaultValue": "camHUD"
+            "defaultValue": "camGame"
         }
     ]
 }

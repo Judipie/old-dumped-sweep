@@ -1,9 +1,15 @@
 import flixel.util.FlxAxes;
 
-function postUpdate() {
-    for (p in grpSongs)
-        p.screenCenter(FlxAxes.X);
+var icoPlacement:String = "right";
 
-    iconArray[0].x = 1000 + 50;
-    iconArray[1].x = 840 + 50;
+function postUpdate() {
+    for (p in 0...iconArray.length) {
+        grpSongs.members[p].screenCenter(FlxAxes.X);
+        switch (icoPlacement) {
+            case "right":
+                iconArray[p].x = iconArray[p].sprTracker.x + grpSongs.members[p].width + 10;
+            case "left":
+                iconArray[p].x = iconArray[p].sprTracker.x - grpSongs.members[p].width + iconArray[p].sprTracker.width - 150;
+        }
+    }
 }

@@ -1,0 +1,47 @@
+<!DOCTYPE codename-mod-credits>
+<!--Shout out to Perplexity AI for doing this bullshit quickly-->
+<menu name="Mistful Crimson Morning" desc="Mistful Crimson Morning creators' credits.">
+	<credit name="DevilousHavoc" desc="Owner, Charter" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="jredwick" desc="Owner, Main Coder, Part Time Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Hyper" desc="Director, Charter" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Betasheep28" desc="Director, Main Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Frylock" desc="Coder" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="PJ9D" desc="Coder" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Anonymous" desc="Coder + Additional Help" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="pattydecaffy" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Olimac31" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="blueglue" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="vruzzen" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="CalciumLmao" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Sandi" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="banana B)" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="END_SELLA" desc="Composer" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Blue" desc="Composer (Snail House Creator)" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="CoolmanAJF" desc="Composer, Charter, Assist Coder" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="FireDemonWalker" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Offical Unfunny Person" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Numberless" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="cosmicalarcade" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="LuXoiD_01" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="XXXMickeyTesticles5480" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Colonio" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="TopTophatter" desc="Artist, Animator" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="weedeet" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Gnet" desc="Artist, Animator" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="AshyTown" desc="Concept Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Nazery" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Stonesteve" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Manny204553" desc="Artist (3D Modeler)" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Nugget" desc="Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Adam Navares" desc="Artist (Joe Notes)" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="HoneyFox" desc="Artist + Emotional Support" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="OstrichIsNotFunny" desc="Charter" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Icexglitch" desc="Charter" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="skwoop" desc="Charter" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
+	<credit name="Demonic" desc="Charter" icon="" size="130" url="https://www.youtube.com/watch?v=csJ"/>
+	<!--Porters/Scripters/Other stuff!!-->
+	<credit name="MAZ" desc="• Ported pretty much everything lol.&#xA;• Charted Dumped remake by Sandi." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
+	<credit name="Gazozoz" desc="• Made the original iconPop Lua script." icon="" size="130" url=""/>
+	<credit name="Agent BB" desc="• Made the really good Old Dumped chart." icon="" size="130" url=""/>
+	<credit name="I_have_Autism" desc="• Made the placeholder Dumped rechart." icon="" size="130" url=""/>
+</menu>

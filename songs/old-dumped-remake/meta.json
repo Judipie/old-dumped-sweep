@@ -1,5 +1,9 @@
 {
     "displayName": "old dumped remake",
+    "difficulties": [
+    "remake"
+    ],
+    "name": "old-dumped-remake",
     "bpm": 200.0,
     "icon": "BOOTLEG",
     "color": "#F6B604",

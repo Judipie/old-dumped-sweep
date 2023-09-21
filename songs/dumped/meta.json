@@ -1,0 +1,17 @@
+{
+	"opponentModeAllowed": true,
+	"icon": "BOOTLEG",
+	"difficulties": [
+		"HARD",
+		"HARD-RECHART"
+	],
+	"parsedColor": -608764,
+	"coopAllowed": true,
+	"color": "#F6B604",
+	"name": "dumped",
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"displayName": "dumped",
+	"needsVoices": true,
+	"bpm": 115
+}

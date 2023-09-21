@@ -1,5 +1,10 @@
 <!DOCTYPE codename-mod-options>
-<menu name="old dumped options" desc="Two dead eeyyyyyeesss">
-	<checkbox id="camZooming" name="Camera Zoom" />
-	<checkbox id="notecam" name="Cam move on notes" />
+<menu name="MCM question mark" desc="'Two dead eeyyyyyeesss' - dumped spongbob">
+	<checkbox id="camZooming" desc="Disables the horrible 9884568 camera zooms in the mod (also disables camera zoom every fourth beat)" name="Camera Zoom" />
+	<checkbox id="notecam" desc="Camera moves depending on the notes you're hitting." name="noteCam move" />
+	<checkbox id="iconBop" desc="Icon will bounce on every beat." name="Icon bounce" />
+
+	<menu name="Submenu Example" desc="Submenu test">
+		<checkbox id="levelOfIdk2" name="Level of idk" />
+	</menu>
 </menu>

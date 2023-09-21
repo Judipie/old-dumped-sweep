@@ -1,0 +1,14 @@
+{
+    "params": [
+        {
+            "name": "camGame zoom",
+            "type": "String",
+            "defaultValue": "0.1"
+        },
+        {
+            "name": "camHUD zoom",
+            "type": "String",
+            "defaultValue": "0.1"
+        }
+    ]
+}

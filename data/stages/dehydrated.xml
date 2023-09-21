@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="dumped" folder="stages/dehydrated/">
+    <gf x="400" y="130"/>
+    <boyfriend  x="770" y="100"/>
+    <sprite name="bg" x="-700" y="-400" sprite="TreeDomeBG" scroll="1" scale="1.4"/>
+
+    <dad x="-150" y="-200"/>
+</stage>

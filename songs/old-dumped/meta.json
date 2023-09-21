@@ -1,9 +1,12 @@
 {
     "displayName": "old dumped",
+    "difficulties": [
+    "HARD"
+    ],
+    "name": "old-dumped",
     "bpm": 200.0,
     "icon": "BOOTLEG",
     "color": "#F6B604",
-    "difficulties": ["HARD"],
     "coopAllowed": true,
     "opponentModeAllowed": true
 }
