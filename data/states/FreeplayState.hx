@@ -1,5 +1,3 @@
-import flixel.util.FlxAxes;
-
 var icoPlacement:String = "right";
 
 function postUpdate() {

@@ -1,24 +1,19 @@
 /**
     SongIntro lua script from MCM old build in Haxe
-    to whoever made it, reach out to me via this port's github repo
-    because I don't know who coded the Lua version
+    to whoever made it the lua ver, 
+    reach out to me via this port's github repo
+    because I don't know who coded that one.
 **/
-
 import flixel.FlxCamera;
-import flixel.util.FlxColor;
 
 var introTextSize = 25;
 var introSubTextSize = 30;
-var introTagColor = FlxColor.GRAY; // gray
+var introTagColor = FlxColor.GRAY;
 var introTagWidth = 15;
-var camOther:FlxCamera;
 
-var jukeBoxTag:FlxSprite;
-var jukeBox:FlxSprite;
-var jukeBoxText:FlxText;
-var jukeBoxSubText:FlxText;
-var composer:FlxText;
-var charter:FlxText;
+var camOther:FlxCamera;
+var jukeBoxTag, jukeBox:FlxSprite;
+var jukeBoxText, jukeBoxSubText, composer, charter:FlxText;
 
 function postCreate() {
     // The tag at the end of the box
@@ -54,6 +49,12 @@ function postCreate() {
 }
 
 function onSongStart() {
+    /* 
+        When the song starts the box appears then goes away after 3 seconds
+        It's designed to be behind the strumlines so you'd read the notes properly 
+        for opponent mode/coop
+    */
+
     for (a in [jukeBoxTag, jukeBox, jukeBoxText, jukeBoxSubText, composer, charter]) {
         FlxTween.tween(a, {x: 0}, 1, {ease: FlxEase.circInOut});
     }
@@ -65,9 +66,11 @@ function onSongStart() {
             }});
         }
     });
+
 }
 
 function create() {
+    // caveman's way to layer cameras via removing and adding
     FlxG.cameras.remove(camHUD, false);
     camOther = new FlxCamera();
     FlxG.cameras.add(camOther, false);

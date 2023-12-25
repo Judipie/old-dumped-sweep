@@ -1,5 +1,5 @@
 <!DOCTYPE codename-mod-credits>
-<!--Shout out to Perplexity AI for doing this bullshit quickly-->
+<!--Shout out to Perplexity AI for doing this bullshit in 5 seconds-->
 <menu name="Mistful Crimson Morning" desc="Mistful Crimson Morning creators' credits.">
 	<credit name="DevilousHavoc" desc="Owner, Charter" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
 	<credit name="jredwick" desc="Owner, Main Coder, Part Time Artist" icon="" size="130" url="https://www.youtube.com/watch?v=csJONKQa2JI"/>
@@ -42,6 +42,5 @@
 	<!--Porters/Scripters/Other stuff!!-->
 	<credit name="MAZ" desc="• Ported pretty much everything lol.&#xA;• Charted Dumped remake by Sandi." icon="" size="130" url="https://gamebanana.com/members/2059336"/>
 	<credit name="Gazozoz" desc="• Made the original iconPop Lua script." icon="" size="130" url=""/>
-	<credit name="Agent BB" desc="• Made the really good Old Dumped chart." icon="" size="130" url=""/>
-	<credit name="I_have_Autism" desc="• Made the placeholder Dumped rechart." icon="" size="130" url=""/>
+	<credit name="Agent BB" desc="• Made the really good Old Dumped chart." icon="" size="130" url="https://www.youtube.com/@agentbb9413"/>
 </menu>

@@ -7,8 +7,7 @@ function postCreate() {
 }
 
 function postUpdate(elapsed:Float) {
-    if (!FlxG.save.data.camZooming)
-        camZooming = false;
+    if (!FlxG.save.data.camZooming) camZooming = false;
     camFollow.x = dad.x + 230;
     camFollow.y = dad.y + 290;
 

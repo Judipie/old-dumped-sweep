@@ -2,8 +2,7 @@
 	"opponentModeAllowed": true,
 	"icon": "BOOTLEG",
 	"difficulties": [
-		"HARD",
-		"HARD-RECHART"
+		"HARD"
 	],
 	"parsedColor": -608764,
 	"coopAllowed": true,

@@ -2,13 +2,11 @@
 //     importScript("data/globall");
 // }
 
-function postCreate() {
+function postCreate()
     camZoomingStrength -= 0.8;
-}
 
 function postUpdate(elapsed:Float) {
-    if (!FlxG.save.data.camZooming)
-        camZooming = false;
+    if (!FlxG.save.data.camZooming) camZooming = false;
     camFollow.x = 1205;
     camFollow.y = 750;
 

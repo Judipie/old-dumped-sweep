@@ -1,3 +1,4 @@
+// Script by silkycell
 var preloadedCharacters = [];
 
 function postCreate() {

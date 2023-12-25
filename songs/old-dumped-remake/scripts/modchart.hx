@@ -14,18 +14,18 @@ function create() {
 
 function postCreate() {
     boyfriend.visible = false;
-    for (i in ([iconP1, iconP2, healthBarBG, healthBar]))
+    for (i in ([iconP1, iconP2, healthBarBG, healthBar])) {
         i.visible = false;
-        add(bigBlackBox);
+    }
+    add(bigBlackBox);
 
-    boyfriend.visible = false;
-
-    for (d in cpuStrums)
+    for (d in cpuStrums) {
         if (!PlayState.coopMode && !PlayState.opponentMode) /*solo mode*/ {
             d.visible = false;
         } else {
             d.visible = true;
         }
+    }
 }
 
 function beatHit(curBeat) {
@@ -46,26 +46,23 @@ function beatHit(curBeat) {
     }
 
     switch (curBeat){
-        case curBeat = 1:
+        case 1:
             camZoomingStrength = 0;
-        case curBeat = 36:
-            for (p in cpuStrums)
-                p.visible = true;
+        case 36:
+            for (p in cpuStrums) p.visible = true;
             camZoomingStrength = 1;
             camZoomingInterval = 4;
             scrollSpeed = 2.5;
-            iconP1.visible = true;
-            iconP2.visible = true;
-            healthBar.visible = true;
-            healthBarBG.visible = true;
+            for (a in [iconP1, iconP2, healthBarBG, healthBar]) {
+                a.visible = true;
+            }
             bigBlackBox.visible = false;
-        case curBeat = 268:
+        case 268:
             camZoomingStrength = 0;
             bigBlackBox.visible = true;
-            iconP1.visible = false;
-            iconP2.visible = false;
-            healthBar.visible = false;
-            healthBarBG.visible = false;
+            for (a in [iconP1, iconP2, healthBarBG, healthBar]) {
+                a.visible = false;
+            }
             for (a in cpuStrums)
                 a.visible = true;
     }

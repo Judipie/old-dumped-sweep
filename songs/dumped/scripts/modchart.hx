@@ -1,7 +1,7 @@
 function postCreate() {
     boyfriend.alpha = 0.0001;
-    maxCamZoom = 0.68; // Who on earth thought that 9000 of Add Camera Zoom is a good idea seriously?
-    strumLines.members[0].characters[1].visible = false;
+    maxCamZoom = 0.68; // Meant to make sure you don't zoom in through bootleg's eyeballs 
+    strumLines.members[0].characters[1].visible = false; // hides the second character in the first strumline
 }
 
 function stepHit(curStep) {
