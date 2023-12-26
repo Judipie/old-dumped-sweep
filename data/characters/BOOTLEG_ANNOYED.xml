@@ -1,8 +1,8 @@
 <!DOCTYPE codename-engine-character>
 <character x="0" icon="bootleg" camx="-230" y="0" isGF="false" scale="1.7" camy="70" isPlayer="false" holdTime="5.1" sprite="BOOTLEG_ANNOYED_v2">
-	<anim x="19" loop="false" y="-38" fps="24" anim="Dumped_Left" name="singLEFT"/>
-	<anim x="19" loop="false" y="-38" fps="24" anim="Dumped_Right" name="singRIGHT"/>
-	<anim x="45" loop="false" y="-38" fps="24" anim="Dumped_Down" name="singDOWN"/>
-	<anim x="51" loop="false" y="149" fps="24" anim="Dumped_Up" name="singUP"/>
-	<anim x="19" loop="true" y="-38" fps="24" anim="Dumped_Idle" name="idle"/>
+	<anim x="36" loop="false" y="-16" fps="24" anim="Dumped_Left" name="singLEFT"/>
+	<anim x="36" loop="false" y="-16" fps="24" anim="Dumped_Right" name="singRIGHT"/>
+	<anim x="62" loop="false" y="-16" fps="24" anim="Dumped_Down" name="singDOWN"/>
+	<anim x="68" loop="false" y="171" fps="24" anim="Dumped_Up" name="singUP"/>
+	<anim x="36" loop="true" y="-16" fps="24" anim="Dumped_Idle" name="idle"/>
 </character>
